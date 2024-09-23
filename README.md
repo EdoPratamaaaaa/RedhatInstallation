@@ -26,10 +26,12 @@ Lakukan Instalasi VMware dari file yang telah didownload
 
 # Step 9
 Klik Licence dan masukkan VMware Serial Key yang telah didownload
+
 ![image](https://github.com/user-attachments/assets/3082242e-5a9e-4b5f-bfac-9b541d78b074)
 
 # Step 10
 Pilih satah satu dan masukkan ke dalam 
+
 ![image](https://github.com/user-attachments/assets/b60ee181-1218-4faa-8bd7-bc36e8ee2e16)
 
 
